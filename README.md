@@ -6,4 +6,4 @@ IEXE Repositorio prueba
 
 Ejercicios de git
 
-![](C:\Users\Lua\Pictures\Tarea.png)
+![Image text](https://github.com/Angellua/test-git/blob/master/Tarea.png)
